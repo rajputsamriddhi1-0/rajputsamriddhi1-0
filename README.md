@@ -1,4 +1,4 @@
-# Hi 👋, I'm Samriddhi Rajput
+# Hi 👋, I'm Samriddhi Akshay
 
 ### Frontend Developer | B.Tech Student | Passionate Web Developer
 
