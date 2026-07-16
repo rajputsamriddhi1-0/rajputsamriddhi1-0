@@ -76,7 +76,7 @@ A frontend-based academic project developed as part of my coursework.
 
 📧 Email: rajputsamriddhi1@gmail.com
 
-💼 LinkedIn: *(Add your LinkedIn profile link here)*
+💼 LinkedIn: *(https://www.linkedin.com/in/samriddhi-akshay-b40836380/)*
 
 🌐 Portfolio: *(Add your Portfolio link after deployment)*
 
