@@ -78,8 +78,6 @@ A frontend-based academic project developed as part of my coursework.
 
 💼 LinkedIn: *(https://www.linkedin.com/in/samriddhi-akshay-b40836380/)*
 
-🌐 Portfolio: *(Add your Portfolio link after deployment)*
-
 ---
 
 ## ⭐ Thanks for visiting my GitHub Profile!
