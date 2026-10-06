@@ -26,20 +26,35 @@
 - GitHub
 
 ---
+1. 🌐 Personal Portfolio
 
-## 📂 Projects
+A responsive personal portfolio website designed to showcase my skills, education, projects, achievements, and professional profile. Built with HTML, CSS, JavaScript and Bootstrap, focusing on clean UI and responsive layouts. Implemented semantic HTML, Flexbox, CSS Grid, navigation, forms, hover effects, and responsive design for a user-friendly experience.
 
-### 🌐 Personal Portfolio Website
-A responsive portfolio website showcasing my education, skills, certifications, achievements, and projects.
+Skills Used: HTML • CSS • JavaScript • Bootstrap • Responsive Design • Flexbox • CSS Grid
 
-### 🎮 Tic Tac Toe Game
-A fun and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
+2. 🎮 Tic Tac Toe Game
 
-### ⌨️ Typing Speed Tester
-A web application that measures typing speed and accuracy.
+An interactive Tic Tac Toe game developed to provide a simple and engaging two-player gaming experience. Built using HTML, CSS and JavaScript, with JavaScript handling game logic, player turns, winning conditions, and game reset functionality. The interface is designed with a clean and responsive layout for different screen sizes.
 
-### 🎓 College Project
-A frontend-based academic project developed as part of my coursework.
+Skills Used: HTML • CSS • JavaScript • DOM Manipulation • Event Handling • Game Logic • Responsive Design
+
+3. ⌨️ Typing Speed Tester
+
+An interactive Typing Speed Tester that helps users measure their typing performance through speed, accuracy, and typing time. Developed using HTML, CSS and JavaScript, with real-time input handling and performance calculation. The project demonstrates JavaScript-based DOM manipulation, event handling, timers, and dynamic content updates.
+
+Skills Used: HTML • CSS • JavaScript • DOM Manipulation • Event Handling • Timer Functions • Real-Time Data Handling
+
+4. ✅ Smart To-Do List
+
+A feature-rich Smart To-Do List application designed to help users efficiently organize and manage daily tasks. It supports adding, editing, deleting, completing, searching, filtering, sorting, and categorizing tasks, along with task statistics and progress tracking. JavaScript and Local Storage are used to manage task data and preserve it between sessions.
+
+Skills Used: HTML • CSS • JavaScript • DOM Manipulation • Local Storage • CRUD Operations • Search & Filter • Responsive Design
+
+5. 💰 Expense Tracker
+
+A responsive Expense Tracker application developed to manage income, expenses, and overall financial records. Users can add, edit, delete, search, and filter transactions by category, with data stored using Local Storage. The project also includes balance calculation, CSV export, PDF reporting, charts, and light/dark mode for a complete financial management experience.
+
+Skills Used: HTML • CSS • JavaScript • Local Storage • DOM Manipulation • CRUD Operations • Chart.js • CSV/PDF Export • Responsive Design
 
 ---
 
