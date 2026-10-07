@@ -20,7 +20,7 @@
 - CSS3
 - JavaScript
 - Bootstrap
-- C++
+- Basic C++
 - SQL
 - Git
 - GitHub
