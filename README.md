@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech Student at NITRA Technical Campus, Ghaziabad
+- 🎓 B.Tech final year Student at NITRA Technical Campus, Ghaziabad
 - 💻 Frontend Developer
 - 🌱 Currently learning JavaScript, React and modern web development
 - 🚀 Interested in creating responsive and user-friendly websites
